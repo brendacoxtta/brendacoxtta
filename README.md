@@ -8,7 +8,7 @@
 - Inteligência Artificial
 - Desenvolvimento de Software
 
-🛠 Tecnologias em estudo
+🛠 Tecnologias em estudo: 
 Python
 JavaScript
 HTML e CSS
